@@ -1,0 +1,88 @@
+C:\Users\Mrsak\source\repos\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\NightmareOfAnimus.exe
+C:\Users\Mrsak\source\repos\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\NightmareOfAnimus.pdb
+C:\Users\Mrsak\source\repos\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Mrsak\source\repos\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Mrsak\source\repos\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Mrsak\source\repos\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Mrsak\source\repos\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Mrsak\source\repos\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Mrsak\source\repos\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Mrsak\source\repos\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Mrsak\source\repos\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Mrsak\source\repos\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Mrsak\source\repos\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Mrsak\source\repos\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Mrsak\source\repos\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Mrsak\source\repos\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Mrsak\source\repos\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Mrsak\source\repos\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Mrsak\source\repos\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Mrsak\source\repos\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Mrsak\source\repos\NightmareOfAnimus\NightmareOfAnimus\obj\x86\Debug\NightmareOfAnimus.csprojResolveAssemblyReference.cache
+C:\Users\Mrsak\source\repos\NightmareOfAnimus\NightmareOfAnimus\obj\x86\Debug\NightmareOfAnimus.csproj.CoreCompileInputs.cache
+C:\Users\Mrsak\source\repos\NightmareOfAnimus\NightmareOfAnimus\obj\x86\Debug\NightmareOfAnimus.exe
+C:\Users\Mrsak\source\repos\NightmareOfAnimus\NightmareOfAnimus\obj\x86\Debug\NightmareOfAnimus.pdb
+C:\Users\Mrsak\source\repos\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\Content\Fonts\hilightFont.xnb
+C:\Users\Mrsak\source\repos\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\Content\Fonts\regularFont.xnb
+C:\Users\Mrsak\source\repos\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\Content\SFX\CURSOL_SELECT.xnb
+D:\Conestoga College\Level3\PROG2370\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\Content\SFX\CURSOL_SELECT.xnb
+D:\Conestoga College\Level3\PROG2370\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\Content\Fonts\hilightFont.xnb
+D:\Conestoga College\Level3\PROG2370\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\Content\Fonts\regularFont.xnb
+D:\Conestoga College\Level3\PROG2370\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\NightmareOfAnimus.exe
+D:\Conestoga College\Level3\PROG2370\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\NightmareOfAnimus.pdb
+D:\Conestoga College\Level3\PROG2370\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Conestoga College\Level3\PROG2370\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Conestoga College\Level3\PROG2370\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\SharpDX.dll
+D:\Conestoga College\Level3\PROG2370\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Conestoga College\Level3\PROG2370\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Conestoga College\Level3\PROG2370\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Conestoga College\Level3\PROG2370\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Conestoga College\Level3\PROG2370\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Conestoga College\Level3\PROG2370\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Conestoga College\Level3\PROG2370\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Conestoga College\Level3\PROG2370\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Conestoga College\Level3\PROG2370\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\SharpDX.xml
+D:\Conestoga College\Level3\PROG2370\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Conestoga College\Level3\PROG2370\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Conestoga College\Level3\PROG2370\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Conestoga College\Level3\PROG2370\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Conestoga College\Level3\PROG2370\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Conestoga College\Level3\PROG2370\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Conestoga College\Level3\PROG2370\NightmareOfAnimus\NightmareOfAnimus\obj\x86\Debug\NightmareOfAnimus.csprojResolveAssemblyReference.cache
+D:\Conestoga College\Level3\PROG2370\NightmareOfAnimus\NightmareOfAnimus\obj\x86\Debug\NightmareOfAnimus.csproj.CoreCompileInputs.cache
+D:\Conestoga College\Level3\PROG2370\NightmareOfAnimus\NightmareOfAnimus\obj\x86\Debug\NightmareOfAnimus.exe
+D:\Conestoga College\Level3\PROG2370\NightmareOfAnimus\NightmareOfAnimus\obj\x86\Debug\NightmareOfAnimus.pdb
+D:\Conestoga College\Level3\PROG2370\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\Content\Images\Main_Menu_Background.xnb
+D:\Conestoga College\Level3\PROG2370\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\Content\OST\Sono_Chi_no_Sadame.wma
+D:\Conestoga College\Level3\PROG2370\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\Content\OST\Sono_Chi_no_Sadame.xnb
+D:\Conestoga College\Level3\PROG2370\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\Content\Images\Action_Background\Layer_0000_9.xnb
+D:\Conestoga College\Level3\PROG2370\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\Content\Images\Action_Background\Layer_0001_8.xnb
+D:\Conestoga College\Level3\PROG2370\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\Content\Images\Action_Background\Layer_0002_7.xnb
+D:\Conestoga College\Level3\PROG2370\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\Content\Images\Action_Background\Layer_0003_6.xnb
+D:\Conestoga College\Level3\PROG2370\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\Content\Images\Action_Background\Layer_0004_Lights.xnb
+D:\Conestoga College\Level3\PROG2370\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\Content\Images\Action_Background\Layer_0005_5.xnb
+D:\Conestoga College\Level3\PROG2370\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\Content\Images\Action_Background\Layer_0006_4.xnb
+D:\Conestoga College\Level3\PROG2370\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\Content\Images\Action_Background\Layer_0007_Lights.xnb
+D:\Conestoga College\Level3\PROG2370\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\Content\Images\Action_Background\Layer_0008_3.xnb
+D:\Conestoga College\Level3\PROG2370\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\Content\Images\Action_Background\Layer_0009_2.xnb
+D:\Conestoga College\Level3\PROG2370\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\Content\Images\Action_Background\Layer_0010_1.xnb
+D:\Conestoga College\Level3\PROG2370\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\Content\Images\Knight\knight_attack.xnb
+D:\Conestoga College\Level3\PROG2370\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\Content\Images\Knight\knight_death.xnb
+D:\Conestoga College\Level3\PROG2370\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\Content\Images\Knight\knight_idle.xnb
+D:\Conestoga College\Level3\PROG2370\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\Content\Images\Knight\knight_walk.xnb
+D:\Conestoga College\Level3\PROG2370\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\Content\Images\Rock.xnb
+D:\Conestoga College\Level3\PROG2370\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\Content\Images\Skeleton\Sprite Sheets\Skeleton Attack.xnb
+D:\Conestoga College\Level3\PROG2370\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\Content\Images\Skeleton\Sprite Sheets\Skeleton Dead.xnb
+D:\Conestoga College\Level3\PROG2370\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\Content\Images\Skeleton\Sprite Sheets\Skeleton Hit.xnb
+D:\Conestoga College\Level3\PROG2370\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\Content\Images\Skeleton\Sprite Sheets\Skeleton Idle.xnb
+D:\Conestoga College\Level3\PROG2370\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\Content\Images\Skeleton\Sprite Sheets\Skeleton React.xnb
+D:\Conestoga College\Level3\PROG2370\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\Content\Images\Skeleton\Sprite Sheets\Skeleton Walk.xnb
+D:\Conestoga College\Level3\PROG2370\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\Content\Fonts\hpFont.xnb
+D:\Conestoga College\Level3\PROG2370\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\Content\SFX\footsteps.xnb
+D:\Conestoga College\Level3\PROG2370\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\Content\OST\Light_of_Nibel.wma
+D:\Conestoga College\Level3\PROG2370\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\Content\OST\Light_of_Nibel.xnb
+D:\Conestoga College\Level3\PROG2370\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\Content\SFX\sword_swing.xnb
+D:\Conestoga College\Level3\PROG2370\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\Content\SFX\skeleton_walk.xnb
+D:\Conestoga College\Level3\PROG2370\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\Content\SFX\axe_swing.xnb
+D:\Conestoga College\Level3\PROG2370\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\Content\Images\Credits.xnb
+D:\Conestoga College\Level3\PROG2370\NightmareOfAnimus\NightmareOfAnimus\bin\Windows\x86\Debug\Content\Images\Help.xnb
