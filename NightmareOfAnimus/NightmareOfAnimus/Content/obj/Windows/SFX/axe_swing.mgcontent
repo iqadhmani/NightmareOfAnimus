@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/Conestoga College/Level3/PROG2370/NightmareOfAnimus/NightmareOfAnimus/Content/SFX/axe_swing.wav</SourceFile>
+  <SourceTime>2018-01-08T23:21:32.023359-05:00</SourceTime>
+  <DestFile>D:/Conestoga College/Level3/PROG2370/NightmareOfAnimus/NightmareOfAnimus/Content/bin/Windows/SFX/axe_swing.xnb</DestFile>
+  <DestTime>2018-01-08T23:23:53.1839728-05:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2017-03-01T10:05:36-05:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2017-03-01T10:05:36-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

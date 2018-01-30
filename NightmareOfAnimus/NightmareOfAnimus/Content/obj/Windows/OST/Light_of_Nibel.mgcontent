@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/Conestoga College/Level3/PROG2370/NightmareOfAnimus/NightmareOfAnimus/Content/OST/Light_of_Nibel.mp3</SourceFile>
+  <SourceTime>2018-01-08T22:11:35.843502-05:00</SourceTime>
+  <DestFile>D:/Conestoga College/Level3/PROG2370/NightmareOfAnimus/NightmareOfAnimus/Content/bin/Windows/OST/Light_of_Nibel.xnb</DestFile>
+  <DestTime>2018-01-08T22:18:48.5306705-05:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2017-03-01T10:05:36-05:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2017-03-01T10:05:36-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>D:/Conestoga College/Level3/PROG2370/NightmareOfAnimus/NightmareOfAnimus/Content/bin/Windows/OST/Light_of_Nibel.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>
